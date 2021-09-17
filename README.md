@@ -18,8 +18,8 @@ Here the final result:
   </tr>
   <tr>
     <td><img src="./screenshots/Desktop/01_SMILESCHOOL_LANDING_desktop@2x.png" height=750></td>
-     <td><img src="./screenshots/images/Tablet/01_SMILESCHOOL_LANDING_tablet@2x.png" height=750></td>
-    <td><img src="./screenshots/images/Mobile/01_SMILESCHOOL_LANDING_mobile@2x.png"height=750></td>
+     <td><img src="./screenshots/Tablet/01_SMILESCHOOL_LANDING_tablet@2x.png" height=750></td>
+    <td><img src="./screenshots/Mobile/01_SMILESCHOOL_LANDING_mobile@2x.png"height=750></td>
   </tr>
  </table>
 
@@ -32,8 +32,8 @@ Here the final result:
     <td>Mobile view</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/Mobile/02_SMILESCHOOL_PRICING_desktop@2x.png" height=750></td>
-     <td><img src="./screenshots/Mobile/Tablet/02_SMILESCHOOL_PRICING_tablet@2x.png" height=750></td>
+    <td><img src="./screenshots/Desktop/02_SMILESCHOOL_PRICING_desktop@2x.png" height=750></td>
+     <td><img src="./screenshots/Tablet/02_SMILESCHOOL_PRICING_tablet@2x.png" height=750></td>
     <td><img src="./screenshots/Mobile/02_SMILESCHOOL_PRICING_mobile@2x.png" height=750></td>
   </tr>
  </table>
@@ -47,9 +47,9 @@ Here the final result:
     <td>Mobile view</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/Tablet/03_SMILESCHOOL_COURSES_desktop@2x.png" height=750></td>
-     <td><img src="./screenshots/Tablet03_SMILESCHOOL_COURSES_tablet@2x.png" height=750></td>
-    <td><img src="./screenshots/Tablet/03_SMILESCHOOL_COURSES_mobile@2x.png" height=750></td>
+    <td><img src="./screenshots/Desktop/03_SMILESCHOOL_COURSES_desktop@2x.png" height=750></td>
+     <td><img src="./screenshots/Tablet/03_SMILESCHOOL_COURSES_tablet@2x.png" height=750></td>
+    <td><img src="./screenshots/Mobile/03_SMILESCHOOL_COURSES_mobile@2x.png" height=750></td>
   </tr>
  </table>
 
